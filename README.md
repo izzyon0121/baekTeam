@@ -1,5 +1,16 @@
 # baekTeam
+### 260407
+요구사항 정의서
+  - 집에가고싶조: 
+  - 세븐일레븐: 
+  - 인텔리제이조: 
+  - 남자만있조: 
+  - 버그잡았조:
 
+
+
+
+---
 ### 260403
 시장 조사 및 벤치마킹
   - 집에가고싶조: https://github.com/shortKDT/main/blob/main/ProjectInfo.md
